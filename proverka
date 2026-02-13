@@ -1,0 +1,24 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> ПРОВЕРКА </title>
+    <style>
+    .text{
+            position: relative;
+            font-family: Arial, Helvetica, sans-serif;
+            transform: translate(0,-55%);
+            text-align: center;
+            font-size: 27px;
+            top: 50%;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+        }
+    </style>
+<body>
+
+<h1 class = 'text'> ПРОВЕРКА </h1>
+
+</body>
+</html>
